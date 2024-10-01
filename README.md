@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Next.js, Python, PHP and NodeJS**
 
-- 📫 How to reach me **morenomartinez0608@gmail.com**, **https://t.me/morenomart30115**
+- 📫 How to reach me **(917) 267-8665**
 
 - 📄 Know about my experiences [my experiences]
 
