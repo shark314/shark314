@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **Walmart**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Fift**
 
 - 👨‍💻 All of my projects are available at [My Workspace]
 
