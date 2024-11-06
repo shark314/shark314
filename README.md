@@ -41,7 +41,7 @@
 - 📫 How to reach me **(917) 267-8665**
 
 - 📄 Know about my experiences 
-  <a href="https://docs.google.com/document/d/1VCIT_ZUOcZwWjI_pf06cR4Kmq2Dqv_b2/edit?usp=drive_link&ouid=116016296637710695716&rtpof=true&sd=true">
+  <a href="https://drive.google.com/file/d/1NWk8QKo7xWNrb7uaOucbXAYJofJOaKeZ/view?usp=drive_link">
     [my experiences]
   </a>
 
