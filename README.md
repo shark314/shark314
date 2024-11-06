@@ -36,11 +36,14 @@
 
 - 👨‍💻 All of my projects are available at [My Workspace]
 
-- 💬 Ask me about **Next.js, Python, PHP and NodeJS**
+- 💬 Ask me about **React, Angular, Next.js, Vue.js, Node, Python, Java, ASP.NET**
 
 - 📫 How to reach me **(917) 267-8665**
 
-- 📄 Know about my experiences [my experiences]
+- 📄 Know about my experiences 
+  <a href="https://docs.google.com/document/d/1VCIT_ZUOcZwWjI_pf06cR4Kmq2Dqv_b2/edit?usp=drive_link&ouid=116016296637710695716&rtpof=true&sd=true">
+    [my experiences]
+  </a>
 
 - ⚡ Fun fact **I think I'm funny**
 
