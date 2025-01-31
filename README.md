@@ -45,9 +45,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Walmart**
-
-- 🌱 I’m currently learning **Fift**
+- 🌱 I’m currently learning **Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [My Workspace]
 
