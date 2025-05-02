@@ -51,10 +51,10 @@
 
 - 💬 Ask me about **React, Angular, Next.js, Vue.js, Node, Python, Java, ASP.NET**
 
-- 📫 How to reach me **(917) 267-8665**
+- 📫 How to reach me **(713) 347-0844**
 
 - 📄 Know about my experiences 
-  <a href="https://drive.google.com/file/d/1NWk8QKo7xWNrb7uaOucbXAYJofJOaKeZ/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1uFsd6q70R5KQ_fOaMxgnz5C8oWeC38yX/view?usp=drive_link">
     [my experiences]
   </a>
 
