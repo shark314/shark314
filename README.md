@@ -145,4 +145,8 @@
 
 <br>
 <p align="right" > Created with 💖 by <a href="https://t.me/kingshark615">King of the Ocean</a></p>
-~~~~
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/ width="100%">
+</p>
+
