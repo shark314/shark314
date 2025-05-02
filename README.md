@@ -1,5 +1,11 @@
 <h1 align="center">🤴 King of the Software Ocean, mastering every wave of code.</h1>
-<h3 align="center">A dynamic Full-Stack Blockchain developer with over 10 years of expereince</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/bill-o-swe">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<h3 align="center">A dynamic Full-Stack developer with over 10 years of expereince</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="King of the Ocean" /> 
@@ -59,9 +65,6 @@
   </a>
 
 - ⚡ Fun fact **I think I'm funny**
-
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" width="100%">
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
