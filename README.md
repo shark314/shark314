@@ -3,9 +3,18 @@
   <a href="https://www.linkedin.com/in/bill-o-swe">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:blbarron.007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://calendar.app.google/na7XPRo8fjJLREbx6">
+    <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" />
+  </a>
+  <a href="[https://calendar.app.google/na7XPRo8fjJLREbx6](https://t.me/kingshark615)">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="center">A dynamic Full-Stack developer with over 10 years of expereince</h3>
+<h3 align="center">A dynamic Senior Software Engineer with over 10 years of expereince</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="King of the Ocean" /> 
