@@ -1,9 +1,9 @@
 <h1 align="center">🤴 King of the Software Ocean, mastering every wave of code.</h1>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/bill-o-swe">
+<!--   <a href="https://www.linkedin.com/in/bill-o-swe">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:blbarron.007@gmail.com">
+  <a href="mailto:blbarron.007@gmail.com"> -->
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://calendar.app.google/na7XPRo8fjJLREbx6">
