@@ -69,7 +69,7 @@
 - 📫 How to reach me **(713) 347-0844**
 
 - 📄 Know about my experiences 
-  <a href="https://drive.google.com/file/d/1uFsd6q70R5KQ_fOaMxgnz5C8oWeC38yX/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1uFsd6q70R5KQ_fOaMxgneC38yX/view?usp=drive_link">
     [my experiences]
   </a>
 
