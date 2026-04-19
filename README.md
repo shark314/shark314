@@ -35,6 +35,7 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 5px" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="51" style="margin-right: 0px; margin-bottom: 0px" />
+
 </div>
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
