@@ -49,7 +49,9 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 
 - ⚡ Fun fact **I think I'm a fish**
 
-![Divider](https://i.imgur.com/dBaSKWF.gif)
+<!-- markdownlint-disable MD033 -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
+<!-- markdownlint-enable MD033 -->
 
 ### Languages and Tools&#58;
 
@@ -73,7 +75,9 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 
   [![Tool Skills](https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux)](https://skillicons.dev)
 
-![Divider](https://i.imgur.com/dBaSKWF.gif)
+<!-- markdownlint-disable MD033 -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
+<!-- markdownlint-enable MD033 -->
 
 ### Trophy&#58;
 
@@ -81,22 +85,16 @@ I am fascinated by how computer technology 🌐 has brought changes to our lives
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" alt="Trophy" width="100px" height="100px"></p>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews" alt="Trophies Set 1">
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers" alt="Trophies Set 2">
-</div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
 <!-- markdownlint-enable MD033 -->
-
-![Divider](https://i.imgur.com/dBaSKWF.gif)
 
 ### Activity&#58;
 
 ![My Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-![Divider](https://i.imgur.com/dBaSKWF.gif)
+<!-- markdownlint-disable MD033 -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Divider">
+<!-- markdownlint-enable MD033 -->
 
 ![Greeting](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif) _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)
 
