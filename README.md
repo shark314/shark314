@@ -16,17 +16,17 @@
 I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 
 <!-- markdownlint-disable MD033 -->
-<p align="center">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="50" height="50" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="50" height="50" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="50" height="50" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="Testing Library" width="50" height="50" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="50" height="50" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="50" height="50" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="Storybook" width="50" height="50" />
-</p>
+</div>
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <!-- markdownlint-enable MD033 -->
